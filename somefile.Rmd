@@ -16,7 +16,11 @@ This is an R Markdown format used for publishing markdown documents to GitHub. W
 You can include R code in the document as follows:
 
 ```{r cars}
+<<<<<<< HEAD
 nrow(cars)
+=======
+str(cars)
+>>>>>>> 683ecdf8959689bbdfb50bedbcdc9f2fef1075c6
 ```
 
 ## Including Plots
